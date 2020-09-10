@@ -8,6 +8,6 @@ setup(
     description="Low bandwidth DoS tool. Slowloris rewrite in Python.",
     author="Mister ",
     author_email="procurandouqfdp@gmail.com",
-    url="urlaq",
+    url="https://github.com/MisterIot/DDOSBYMISTER",
     keywords=["dos", "http", "slowloris"],
     license="MIT",
